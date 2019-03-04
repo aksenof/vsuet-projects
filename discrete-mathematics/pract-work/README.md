@@ -43,7 +43,7 @@ Python 3.5 удобно использовать список списков adj
 
 <b> Результат работы программы: </b>
 
-![rpr](https://raw.githubusercontent.com/aksenof/vsuet-projects/master/discrete-mathematics/pract-work/prp.png)
+![rpr](https://raw.githubusercontent.com/aksenof/vsuet-projects/master/discrete-mathematics/pract-work/rpr.png)
 
 <b> Вывод: </b>
 
